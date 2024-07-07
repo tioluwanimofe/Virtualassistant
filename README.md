@@ -28,7 +28,7 @@ git clone https://github.com/<your-username>/Friendly-Assistant.git
 (Replace `python` with your programming language if different)
 
 cd Friendly-Assistant
-pip install <list-of-required-libraries>  # Example: pip install datetime random requests
+pip install <list-of-required-libraries>  # Example: pip install DateTime random requests
             </pre>
         </li>
         <li>**Run the Assistant:**
