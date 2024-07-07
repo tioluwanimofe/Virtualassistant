@@ -8,23 +8,21 @@
 <body>
     <h1>Friendly-Assistant: Your GitHub-Powered Virtual Assistant</h1>
 
-    <p>This repository contains the code for a friendly virtual assistant that can provide basic information and greetings.</p>
+    This repository contains the code for a friendly virtual assistant that can provide basic information and greetings.
 
-    <h2>Features</h2>
-    <ul class="feature">
-        <li>**Date and Time:** Retrieves and displays the current date and time.</li>
-        <li>**Greetings:** Generates a random greeting based on the current time of day (e.g., "Good morning!", "Good afternoon!", or "Good evening!").</li>
-        <li>**Person Search:** Allows users to search for information about a person (implementation details will depend on your chosen approach).</li>
-    </ul>
+**Features**
 
-    <h2>Getting Started</h2>
+**Date and Time:** Retrieves and displays the current date and time.
+**Greetings:** Generates a random greeting based on the current time of day (e.g., "Good morning!", "Good afternoon!" or "Good evening!").
+**Person Search:** Allows users to search for information about a person (implementation details will depend on your chosen approach).
 
-    <ol>
-        <li>**Clone the Repository:**
-            <pre>
+Getting Started
+
+**Clone the Repository:**
+            
 git clone https://github.com/<your-username>/Friendly-Assistant.git
-            </pre>
-        </li>
+            
+        
         <li>**Install Dependencies:**
             <pre>
 (Replace `python` with your programming language if different)
@@ -42,11 +40,11 @@ python main.py
         </li>
     </ol>
 
-    <h2>Usage</h2>
+    Usage
 
-    <p>The virtual assistant will display the current date and time, followed by a random greeting. It will then prompt you for a name to search for.</p>
+    The virtual assistant will display the current date and time, followed by a random greeting. It will then prompt you for a name to search for.
 
-    <pre>
+    
 Example:
 
 Today's date: 2024-07-07
@@ -61,20 +59,20 @@ Let me know who you'd like to learn about. (Enter a name)
 (Results for Albert Einstein will be displayed based on your chosen search method)
     </pre>
 
-    <h2>Implementation Details</h2>
+    Implementation Details
 
-    <p>... (content about implementation details remains the same) ...</p>
+    ... (content about implementation details remains the same) ...
 
-    <h2>Customization</h2>
+    Customization
 
-    <p>... (content about customization remains the same) ...</p>
+    ... (content about customization remains the same) ...
 
-    <h2>Contributing</h2>
+    Contributing
 
-    <p>... (content about contributing remains the same) ...</p>
+    ... (content about contributing remains the same) ...
 
-    <h2>License</h2>
+    License
 
-    <p>This project is licensed under the MIT License (see the LICENSE file for details).</p>
+    This project is licensed under the MIT License (see the LICENSE file for details).
 </body>
 </html>
