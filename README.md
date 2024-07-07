@@ -3,41 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Friendly Assistant: Your GitHub-Powered Virtual Assistant</title>
-    <style>
-        /* Basic styling */
-        body {
-            font-family: sans-serif;
-            margin: 1rem;
-        }
-
-        h1, h2, h3 {
-            margin: 1rem 0;
-        }
-
-        /* Title with green color and underline */
-        h1 {
-            color: green;
-            text-decoration: underline;
-        }
-
-        /* Description with some italic emphasis */
-        p:first-of-type {
-            font-style: italic;
-        }
-
-        /* Bold text for features and usage sections */
-        .feature,
-        .usage {
-            font-weight: bold;
-        }
-
-        /* Code blocks with gray background */
-        pre {
-            background-color: #f2f2f2;
-            padding: 1rem;
-        }
-    </style>
+    
 </head>
 <body>
     <h1>Friendly-Assistant: Your GitHub-Powered Virtual Assistant</h1>
